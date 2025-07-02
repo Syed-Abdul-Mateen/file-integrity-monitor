@@ -1,0 +1,31 @@
+Fruits:
+
+Apple
+banana
+pomegranate
+grapes
+mango
+musk melon
+pineapple
+
+
+
+Flowers:
+
+Rose
+lilly
+jasmine
+sunflower
+mogras
+
+
+
+Vegetables:
+
+Tomato
+Potato
+bitter gaurd
+bottle gaurd
+leaves
+beans
+

@@ -1,0 +1,10 @@
+2025-07-03 02:14:44,159 - File modified or tampered: sample_data\sample.txt
+2025-07-03 02:22:17,711 - File modified or tampered: sample_data\sample.txt
+2025-07-03 02:32:38,272 -  File modified: sample_data\sample.txt
+2025-07-03 02:32:38,375 -  Before content:
+2025-07-03 02:32:38,378 - 
+ After content:
+2025-07-03 02:35:22,669 -  File modified: sample_data\sample.txt
+2025-07-03 02:35:22,773 -  Before content:
+2025-07-03 02:35:22,776 - 
+ After content:
